@@ -18,7 +18,6 @@ void Addmembr();
 void Exit();
 
 char info[500];
-
 struct
 {
   int bid;
